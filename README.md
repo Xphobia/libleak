@@ -13,6 +13,7 @@ LibMemleak- A C library for checking Memory Leak.
   $ ./configure --enable-shared
   $ make
   $ make install
+  $ cd ..
  ```
  3. Compile libyamlc
  ```
