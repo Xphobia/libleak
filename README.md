@@ -1,11 +1,11 @@
-# libmemleak
-LibMemleak- A C library for checking Memory Leak.
+# libleak
+Libleak- A C library for checking Memory Leak.
 
 # Build from source
 1. Get source code
 ```
-  $ git clone --recursive git@github.com:Xphobia/libyamlc.git
-  $ cd libyamlc
+  $ git clone --recursive git@github.com:Xphobia/libleak.git
+  $ cd libleak
 ```
 2. Install libbacktrace
  ```
@@ -15,7 +15,11 @@ LibMemleak- A C library for checking Memory Leak.
   $ make install
   $ cd ..
  ```
- 3. Compile libyamlc
+ 3. Compile
  ```
   $ make
  ```
+
+# How to use
+
+Please read README-libleak.md
