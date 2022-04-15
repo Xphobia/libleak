@@ -1,0 +1,4 @@
+[submodule "libbacktrace"]
+	path = libbacktrace
+	url = git@github.com:Xphobia/libbacktrace.git
+	branch = develop
