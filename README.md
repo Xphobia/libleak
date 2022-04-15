@@ -14,6 +14,8 @@ Libleak- A C library for checking Memory Leak.
   $ make
   $ make install
   $ cd ..
+  $ echo "/usr/local/lib" > /etc/ld.so.conf.d/libbacktrace.conf
+  $ ldconfig
  ```
  3. Compile
  ```
